@@ -1,0 +1,6 @@
+.yellow-box {
+    background-color: yellow;
+    height: 450px;
+    width: 450px;
+    position: static;
+}

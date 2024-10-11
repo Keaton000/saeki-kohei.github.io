@@ -1,0 +1,15 @@
+p {
+    display: inline;
+}
+
+span {
+    display: block;
+}
+
+h3 {
+    display: inline-block;
+}
+
+h5 {
+    display: none;
+}
